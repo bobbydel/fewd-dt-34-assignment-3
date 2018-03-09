@@ -92,6 +92,7 @@ body {
 
 .flex-row-top h1 {
   color: white;
+  align-content: center;
 }
 
 .relaxr {
