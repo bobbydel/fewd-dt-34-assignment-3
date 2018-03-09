@@ -171,13 +171,13 @@ hr {
 
 .sidestory {
   font-size: 22px;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .sidenav {
   /* 24px, light */
   font-size: 24px;
-  font-weight: 100;
+  font-weight: 300;
   display: flex;
   flex-direction: column;
 }
